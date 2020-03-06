@@ -1,4 +1,4 @@
-# Lab7-BST
+# binary_search_tree
 Lab for my CS 235 (Data Structures) class to gain a better understanding of the Binary Search Tree.
 
 ## Description
